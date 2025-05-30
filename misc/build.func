@@ -100,7 +100,7 @@ pve_check() {
     echo -e "Requires Proxmox Virtual Environment Version 8.1 or later."
     echo -e "Exiting..."
     sleep 2
-    exit
+    #exit
 fi
 }
 
